@@ -15,4 +15,12 @@ public double divide(int divisor,int dividend)
 		return quotient;	
 	
 }
+public double substruction(double a,double b)
+{
+	return a-b;
+}
+public double multiplication(double x,double y)
+{
+	return x*y;
+}
 }
