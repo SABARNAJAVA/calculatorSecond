@@ -27,4 +27,8 @@ public double median(double a,double b)
 {
 	return (a+b)/2;
 }
+public double average(double m,double n,double o)
+{
+	return (m+n+o)/3;
+}
 }
