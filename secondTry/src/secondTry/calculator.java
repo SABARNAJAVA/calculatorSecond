@@ -23,4 +23,8 @@ public double multiplication(double x,double y)
 {
 	return x*y;
 }
+public double median(double a,double b)
+{
+	return (a+b)/2;
+}
 }
